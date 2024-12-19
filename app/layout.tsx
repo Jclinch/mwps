@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Milkyway & Prime Solicitors | Excellence in Legal Services',
-  description: 'Premier law firm providing exceptional legal services since 1970. Specializing in corporate law, commercial litigation, and real estate law.',
+  description: 'Premier law firm providing exceptional legal services since 2018, specializing in corporate law, commercial litigation, and real estate law.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
